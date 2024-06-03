@@ -1,4 +1,4 @@
-# Color Detection Project
+DOCUMENTATION ON THE # Color Detection Project
 
 This project is a simple color detection application implemented in Python using OpenCV and pandas. The application allows users to identify colors in an image by double-clicking on the image. The color name and RGB values of the selected color are displayed on the image.
 
